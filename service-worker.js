@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3897af58bf21c332f6952edc191bf112"
+    "revision": "b6896584f15347b233f3040719b1ee13"
   },
   {
     "url": "assets/css/0.styles.e42cd381.css",
@@ -94,12 +94,12 @@ self.__precacheManifest = [
     "revision": "5bdff9c858487daef452bea351bb3ce2"
   },
   {
-    "url": "assets/js/9.9bad0ee5.js",
-    "revision": "f84cdf53bf74b59c2f5e132bed006a2d"
+    "url": "assets/js/9.2da47ffa.js",
+    "revision": "1d9f4f0a6e41ff6784476bdc7bcee8cc"
   },
   {
-    "url": "assets/js/app.957ef3b3.js",
-    "revision": "4a1c6e1eed030f7819b8fa546e90b927"
+    "url": "assets/js/app.4f93affd.js",
+    "revision": "93428731ab844c190e92ff6f380e82c5"
   },
   {
     "url": "icons/icon-128x128.png",
@@ -135,35 +135,35 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "272af51c226e070caff02e8202bc844c"
+    "revision": "af5c0877ab5e7e99d6a3f8ba8f3b5419"
   },
   {
     "url": "yuedu/index.html",
-    "revision": "dd11e0ab44c17c710c7a1fd9050338aa"
+    "revision": "c1014cf4aa12c70ab81993f7ae01dc89"
   },
   {
     "url": "yuedu/个人备份说明.html",
-    "revision": "c5ac42eb29d27f79c4c65ecd6da039c4"
+    "revision": "360cd0a62f77075efd824283de9bb2c1"
   },
   {
     "url": "yuedu/书源校验工具.html",
-    "revision": "a04b55fc9b62e76a987087d6eeb1c4e2"
+    "revision": "eaf20a5b47f382e5515c3cf05b25cdfa"
   },
   {
     "url": "yuedu/关耳美化发现工具.html",
-    "revision": "44a7f97f2491ec9f8de6fd0b5a5c7372"
+    "revision": "a96e389c24270c290824eaf6d8365b54"
   },
   {
     "url": "yuedu/备份文件说明.html",
-    "revision": "40dc8ca65d109376331492c9ac5c3e3e"
+    "revision": "768b4b39c8ed2d8301a850e824febca8"
   },
   {
     "url": "yuedu/教程.html",
-    "revision": "94b4271b3bfaf35ad7e6cb5dc0c01941"
+    "revision": "7b6e9b455a02cb84d21dfc7ee69a9342"
   },
   {
     "url": "yuedu/资源共享.html",
-    "revision": "94ef3fee0cf74884df549aa74a7f4590"
+    "revision": "5919f796cb21749f2a2722a2c1d45f6e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
